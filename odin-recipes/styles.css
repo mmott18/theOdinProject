@@ -1,0 +1,13 @@
+.title {
+    font: Helvetica, monospace;
+    font-size: 48px;
+    color: white;
+    background-color: green;
+    text-align: center;
+}
+
+.recipe {
+    font-size: 24px;
+    color: black;
+    background-color: yellow;
+}
